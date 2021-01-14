@@ -2,7 +2,7 @@
 
 echo "----Adding a  new user-----"
 
-useradd selvam
+sudo useradd selvam
 
-useradd ajay
+sudo useradd ajay
 
