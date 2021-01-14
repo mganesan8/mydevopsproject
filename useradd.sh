@@ -4,4 +4,5 @@ echo "----Adding a  new user-----"
 
 useradd selvam
 
+useradd ajay
 
